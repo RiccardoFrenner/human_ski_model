@@ -9,10 +9,10 @@ This project simulates a one-legged skier using a biomechanical model controlled
 Watch our Reinforcement Learning agent learn to balance the one-legged skier model.
 
 *   **Fixed Board Simulation:** The skier balances on a stationary ski.
-    <img src="videos/simulationFixedBoard.avi" alt="Simulation of one-legged skier on a fixed board" controls loop width="700">
+    <img src="videos/simulationFixedBoard.gif" alt="Simulation of one-legged skier on a fixed board" controls loop width="700">
 
 *   **Moving Board Simulation:** The skier maintains balance even when the ski itself is moving.
-    <img src="videos/simulationMovingBoard.avi" alt="Simulation of one-legged skier on a moving board" controls loop width="700">
+    <img src="videos/simulationMovingBoard.gif" alt="Simulation of one-legged skier on a moving board" controls loop width="700">
 
 ---
 
